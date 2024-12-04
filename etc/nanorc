@@ -1,0 +1,2 @@
+echo -e "set autoindent\nset tabsize 4\nset mouse\n" > ~/.dotfiles/etc/nanorc
+
